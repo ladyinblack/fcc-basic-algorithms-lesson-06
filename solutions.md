@@ -44,8 +44,8 @@ console.log(confirmEnding("Bastian", "n"));
 - Finally, we are using our regular expression with the `test` method to the given string, to check if the string ends with the pattern and return true or false accordingly.
 
 ### REFERENCE LINKS
-- [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
-- [RegExp.prototype.test()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
+- [`RegExp`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+- [`RegExp.prototype.test()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
 
 
 ### Alternate Solution 3
